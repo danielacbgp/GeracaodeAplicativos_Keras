@@ -1,2 +1,6 @@
 # GeracaodeAplicativos_Keras
-Banco de Dados Iris
+Material da Aula:
+
+- Base de Dados
+- NoteBook
+- Slides
